@@ -16,7 +16,6 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) 
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) 
-![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=googledatastudio&logoColor=white)  
 
 ---
 
@@ -25,14 +24,11 @@
 - [**Titanic Data Analysis**](https://github.com/reyfa18/analisis_data_penumpang_titanic)  
   🔹 Exploratory Data Analysis with **Python, Pandas, Seaborn, Matplotlib**  
 
-- [**Dashboard CRUD System**](https://github.com/reyfa18/)  
-  🔹 Admin dashboard with **PHP, MySQL, CSS3, DataTables, Bootstrap**  
-
 - [**Tableau Dashboard – Titanic Dataset**](https://github.com/reyfa18/)  
   🔹 Interactive data visualization using **Tableau & Excel CSV**  
 
-- [**Portfolio Website**](https://github.com/reyfa18/) *(coming soon)*  
-  🔹 Personal portfolio using **HTML, CSS, PHP, MySQL**  
+- [**Dashboard CRUD System**](https://github.com/reyfa18/)  
+  🔹 Admin dashboard with **PHP, MySQL, CSS3, DataTables, Bootstrap**  
 
 ---
 
