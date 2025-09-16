@@ -37,7 +37,7 @@ With strong critical thinking, communication skills, and the ability to work bot
 ## 🛠 Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,php,mysql,html,css,bootstrap,github,excel" height="45" />
+  <img src="https://skillicons.dev/icons?i=python,php,mysql,html,css,bootstrap,github" height="45" />
   <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" height="45" alt="Tableau"/>
   <img src="https://cdn.worldvectorlogo.com/logos/microsoft-excel-2013.svg" height="45" alt="Excel"/>
 </p>
