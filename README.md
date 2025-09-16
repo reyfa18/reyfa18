@@ -1,66 +1,54 @@
-<!-- Header Banner -->
-![Header](https://i.ibb.co/3RT1SvF/Banner Rayhan Fadhlah.png)  
-
-# 👋 Hi, I'm Rayhan Fadhilah  
-
-🎓 Fresh Graduate in **Information Systems**  
-💡 Interested in **Data Analysis, Visualization & Web Development**  
-🚀 Passionate about transforming ideas into impactful solutions  
-
----
-
-## 🧑‍💻 About Me  
-- 🌱 Currently improving my skills in **Data Analysis & BI Tools**  
-- 🔍 Enjoys exploring **datasets** and finding hidden insights  
-- ⚡ Loves **minimalist design & clean code**  
-- 📫 Reach me on:  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rayhanfadhilah/)  
-  [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rayhanfadhilah01@gmail.com)  
-
----
-
-## 📊 GitHub Stats  
+<!-- Custom Banner -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=reyfa18&show_icons=true&theme=tokyonight" alt="GitHub stats" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=reyfa18&theme=tokyonight" alt="GitHub Streak" height="160"/>
+  <img src="./Banner%20Rayhan%20Fadhilah.png" alt="Rayhan Fadhilah Banner" />
 </p>
+
+<h3 align="center">🎓 Fresh Graduate Information Systems | 📊 Aspiring Data Analyst | 💻 Web Developer</h3>
+<p align="center">Passionate about turning data into insights and building useful applications</p>
+
+---
+
+## 📬 Connect with Me  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/rayhanfadhilah/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+  </a>
+  <a href="mailto:rayhanfadhilah01@gmail.com" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="40"/>
+  </a>
+  <a href="https://www.instagram.com/reydhilah" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
+  </a>
+</p>
+
+---
+
+## 👨‍💻 About Me  
+
+I am a **fresh graduate in Information Systems from Universitas BSI** with a strong passion for technology and data.  
+My journey has been shaped by a blend of **web development experience**—building CRUD applications with PHP, MySQL, and AdminLTE—alongside growing skills in **data analysis and visualization** using Python, Tableau, and Excel.  
+
+I enjoy transforming raw data into meaningful insights that can support decision-making, and I am continuously learning more about **SQL and data science projects**.  
+With strong critical thinking, communication skills, and the ability to work both independently and in teams, I am eager to contribute to the **Data & Tech industry** and grow as a professional in this field.  
+
+---
+
+## 🚀 Projects  
+
+- **[Titanic Data Analysis](https://github.com/reyfa18/analisis_data_penumpang_titanic)** – EDA with Python (Pandas, Seaborn, Matplotlib)  
+- **[Tableau Dashboard](https://github.com/reyfa18)** – Visual storytelling & insights using Tableau  
+- **[CRUD Admin Dashboard](https://github.com/reyfa18)** – PHP, MySQL, AdminLTE, DataTables  
 
 ---
 
 ## 🛠 Tech Stack  
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Seaborn-009688?style=for-the-badge&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=googledatastudio&logoColor=white"/> 
+  <img src="https://skillicons.dev/icons?i=python,php,mysql,html,css,bootstrap,tableau,github,excel" height="45" />
 </p>
 
 ---
 
-## 📌 Highlighted Projects  
-
-### 🔹 [Titanic Data Analysis](https://github.com/reyfa18/analisis_data_penumpang_titanic)  
-Exploratory Data Analysis & Visualization using **Python, Pandas, Seaborn, Matplotlib**  
-
----
-
-### 🔹 [Dashboard CRUD System](https://github.com/reyfa18/)  
-Admin dashboard with **PHP, MySQL, CSS3, DataTables, Bootstrap**  
-
----
-
-### 🔹 [Tableau Dashboard – Titanic Dataset](https://github.com/reyfa18/)  
-Interactive data visualization using **Tableau & Excel CSV**  
-
----
-
-### 🔹 Portfolio Website *(Coming Soon)*  
-Personal portfolio built with **HTML, CSS, PHP, MySQL**  
-
----
+<!-- Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0083b0,100:00b4db&height=120&section=footer"/>
