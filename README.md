@@ -34,19 +34,20 @@ With strong critical thinking, communication skills, and the ability to work bot
 
 ---
 
+## 🛠 Tech Stack  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,php,mysql,html,css,bootstrap,github,excel" height="45" />
+  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" height="45" alt="Tableau"/>
+</p>
+
+---
+
 ## 🚀 Projects  
 
 - **[Titanic Data Analysis](https://github.com/reyfa18/analisis_data_penumpang_titanic)** – EDA with Python (Pandas, Seaborn, Matplotlib)  
 - **[Tableau Dashboard](https://github.com/reyfa18)** – Visual storytelling & insights using Tableau  
 - **[CRUD Admin Dashboard](https://github.com/reyfa18)** – PHP, MySQL, AdminLTE, DataTables  
-
----
-
-## 🛠 Tech Stack  
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,php,mysql,html,css,bootstrap,tableau,github,excel" height="45" />
-</p>
 
 ---
 
