@@ -1,16 +1,31 @@
-## Hi there 👋
+## Hi there 👋, I'm Rayhan Fadhilah
 
-<!--
-**reyfa18/reyfa18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Fresh Graduate in Information Systems from Universitas BSI  
+📊 Interested in Data Analysis, Visualization, and Web Development  
+💻 Experienced with Python, SQL, PHP, and Tableau  
+🚀 Currently building portfolio projects to grow as a Data Analyst  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Technologies & Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=reyfa18&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reyfa18&layout=compact&theme=tokyonight)
+
+---
+
+### 📌 Featured Projects
+- [Analisis Data Titanic](https://github.com/reyfa18/analisis_data_penumpang_titanic)  
+- [Dashboard CRUD PHP & MySQL](https://github.com/reyfa18/...)  
+- [Expert System for Mental Health Diagnosis in Children](https://github.com/reyfa18/...)  
+
+---
+
+📫 Let’s connect → [LinkedIn](https://www.linkedin.com/in/rayhanfadhilah/)
