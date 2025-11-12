@@ -47,7 +47,8 @@ With strong critical thinking, communication skills, and the ability to work bot
 ## 🚀 Projects  
 
 - **[Titanic Data Analysis](https://github.com/reyfa18/analisis_data_penumpang_titanic)** – EDA with Python (Pandas, Seaborn, Matplotlib)  
-- **[Tableau Dashboard](https://github.com/reyfa18)** – Visual storytelling & insights using Tableau  
+- **[Tableau Dashboard](https://github.com/reyfa18)** – Visual storytelling & insights using Tableau
+- **[E-Commerce Sales Analysis](https://github.com/reyfa18)** – EDA with SQL, Visualitation with Piovt Table
 - **[CRUD Admin Dashboard](https://github.com/reyfa18)** – PHP, MySQL, AdminLTE, DataTables  
 
 ---
